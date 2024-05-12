@@ -1,5 +1,5 @@
 
-![Logo](https://avatars.githubusercontent.com/thegreatshan)
+![zarachatbanner_dmsans](https://github.com/TheGreatShan/ZaraChat.Web/assets/61542805/e63248b1-a843-4f77-9d97-e637303a5125)
 
 
 
