@@ -1,0 +1,7 @@
+node_modules
+.idea
+.vscode
+.zed
+package-lock.json
+dist
+.swp
