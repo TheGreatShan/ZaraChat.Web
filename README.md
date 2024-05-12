@@ -4,10 +4,10 @@
 
 
 
-# ZaraChat Web & ZaraChat product lineup
+# ZaraChat Web & ZaraChat lineup
 
-## What is the ZaraChat product lineup
-The ZaraChat product lineup is a product line be TheGreatShan. It uses the OpenAI GPT api. The product lineup just started its development is meant to create great products. 
+## What is the ZaraChat lineup
+The ZaraChat lineup is a product line be TheGreatShan. It uses the OpenAI GPT api. The product lineup just started its development is meant to create great products. 
 
 Planned products:
 1. ZaraChat API (API)
